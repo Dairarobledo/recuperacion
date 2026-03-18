@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43be758b-9d6b-4a92-90b3-1c5d3f73576d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Alergenico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Alergeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Bebida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Degustacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/ElementoCarta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Entrante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/PlatoComida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/PlatoEstrella.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Postre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43be758b-9d6b-4a92-90b3-1c5d3f73576d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
