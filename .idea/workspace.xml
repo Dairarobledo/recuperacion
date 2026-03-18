@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43be758b-9d6b-4a92-90b3-1c5d3f73576d" name="Changes" comment="" />
+    <list default="true" id="43be758b-9d6b-4a92-90b3-1c5d3f73576d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/excepcion/ElementoDuplicadoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/excepcion/ElementoNoDisponibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/excepcion/ReglaCartaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/repository/DegustacionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/repository/DegustacionRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/repository/ElementoCartaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/repository/ElementoCartaRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/service/MuestraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/service/MuestraServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +25,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Exception" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dairarobledo/recuperacion.git",
-    "accountId": "6e9db78b-f91a-44b5-ac0c-7a9af409441b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dairarobledo/recuperacion.git&quot;,
+    &quot;accountId&quot;: &quot;6e9db78b-f91a-44b5-ac0c-7a9af409441b&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -35,11 +47,11 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "modelo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;modelo&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <servers />
   </component>
