@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43be758b-9d6b-4a92-90b3-1c5d3f73576d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Alergenico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Alergeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Degustacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/ElementoCarta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Entrante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/PlatoComida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/PlatoEstrella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Postre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/fplumara/dam1/restaurantes/model/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dairarobledo/recuperacion.git",
+    "accountId": "6e9db78b-f91a-44b5-ac0c-7a9af409441b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "modelo"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
