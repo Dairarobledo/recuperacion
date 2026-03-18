@@ -1,0 +1,21 @@
+tipo,codigo,nombre,restaurante,precioBase,tiempoPreparacion,compartible,guarnicion,servidoFrio,alcoholica,volumenMl,alergenos
+ENTRANTE,E001,Croquetas de Jamon,Casa_Lola,8.5,12,true,,,,,GLUTEN|LACTOSA|HUEVO
+PRINCIPAL,E002,Entrecot a la Brasa,Casa_Lola,19.5,20,,Patatas_asadas,,,,
+POSTRE,E003,Tarta de Queso,Casa_Lola,6.0,,,true,,,GLUTEN|LACTOSA|HUEVO
+BEBIDA,E004,Limonada Casera,Casa_Lola,3.0,,,,false,330,
+ENTRANTE,E005,Ensaladilla Rusa,Brasa_Norte,7.5,10,true,,,,,HUEVO
+PRINCIPAL,E006,Pollo Asado,Brasa_Norte,15.0,25,,Patatas_panadera,,,,
+POSTRE,E007,Flan Casero,Brasa_Norte,5.0,,,false,,,LACTOSA|HUEVO
+BEBIDA,E008,Agua Mineral,Brasa_Norte,2.0,,,,false,500,
+ENTRANTE,E009,Tempura de Verduras,Dulce_Vida,8.0,14,false,,,,,GLUTEN
+PRINCIPAL,E010,Lasaña de Verduras,Dulce_Vida,13.5,18,,Ensalada_verde,,,,GLUTEN|LACTOSA
+POSTRE,E011,Brownie con Nata,Dulce_Vida,6.5,,,true,,,GLUTEN|LACTOSA|HUEVO|FRUTOS_SECOS
+BEBIDA,E012,Zumo de Naranja,Dulce_Vida,3.5,,,,false,250,
+ENTRANTE,E013,Mejillones al Vapor,Mar_Azul,9.0,11,false,,,,,MARISCO
+PRINCIPAL,E014,Paella Marinera,Mar_Azul,18.0,30,,Alioli,,,,MARISCO
+POSTRE,E015,Helado de Vainilla,Mar_Azul,5.5,,,true,,,LACTOSA
+BEBIDA,E016,Tinto de Verano,Mar_Azul,4.0,,,,true,300,
+ENTRANTE,E017,Hummus con Crudites,Huerta_Sana,7.0,8,true,,,,,
+PRINCIPAL,E018,Hamburguesa Vegana,Huerta_Sana,14.0,16,,Patatas_gajo,,,,GLUTEN
+POSTRE,E019,Macedonia Fresca,Huerta_Sana,5.0,,,true,,,
+BEBIDA,E020,Kombucha,Huerta_Sana,4.5,,,,false,250,
